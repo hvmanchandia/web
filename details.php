@@ -1,3 +1,3 @@
 <?php
-prinnnnnt"hi"
+prinnnnnt "hi"
 ?>
